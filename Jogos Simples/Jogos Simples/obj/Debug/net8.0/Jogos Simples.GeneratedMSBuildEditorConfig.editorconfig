@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Jogos_Simples
+build_property.ProjectDir = C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

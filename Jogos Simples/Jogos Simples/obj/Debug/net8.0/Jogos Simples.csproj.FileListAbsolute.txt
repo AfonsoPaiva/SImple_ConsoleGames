@@ -1,0 +1,14 @@
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\bin\Debug\net8.0\Jogos Simples.exe
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\bin\Debug\net8.0\Jogos Simples.deps.json
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\bin\Debug\net8.0\Jogos Simples.runtimeconfig.json
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\bin\Debug\net8.0\Jogos Simples.dll
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\bin\Debug\net8.0\Jogos Simples.pdb
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.AssemblyInfoInputs.cache
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.AssemblyInfo.cs
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.csproj.CoreCompileInputs.cache
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.dll
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\refint\Jogos Simples.dll
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.pdb
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\Jogos Simples.genruntimeconfig.cache
+C:\Users\Paiva\Documents\UNI\2-Ano\2º Semestre\Desenvolvimento de Jogos Aplicado\Jogo Simples Consola C#\Jogos Simples\Jogos Simples\obj\Debug\net8.0\ref\Jogos Simples.dll
